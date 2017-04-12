@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/47d
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://urbit.sh
+  * I am 47d (https://keybase.io/47d) on keybase.
+  * I have a public key with fingerprint 31DE 167A E8D1 D2D0 68C1  DF9F 4E51 1E4A 0BAA 94B8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d84fc251d43dfadb9285252aa9ba6871df61e3c3e2defc8bb2435759a34692a80a",
+            "fingerprint": "31de167ae8d1d2d068c1df9f4e511e4a0baa94b8",
+            "host": "keybase.io",
+            "key_id": "4e511e4a0baa94b8",
+            "kid": "0101d84fc251d43dfadb9285252aa9ba6871df61e3c3e2defc8bb2435759a34692a80a",
+            "uid": "e53f9d9608d7ac3c3d721a48a4339319",
+            "username": "47d"
+        },
+        "service": {
+            "hostname": "urbit.sh",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1491997843,
+    "expire_in": 157680000,
+    "prev": "d0ef7087375dd9154109a59260401d0ea68c6786caef367b485d2cd72d878da2",
+    "seqno": 127,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.68
+Comment: https://keybase.io/crypto
+
+yMIlAnicrZJbSFRBGMdXtwu7pWUURTfrPATRqmfOdWaJwmSRLmatVIaby5wzc/SU
+nt32nNXUtge1hB66ghlUEiU9aKQ+KVFUxFJqBfZgV4guD0VF0JVIao7YW4/NyzDf
+/P+/+X8fczvL6/FnBDJ3Fuatv9OaMXzzWNJT/nHuySZOi5EGLtjE7aETG60h1Hai
+e0zCBTke8IBAydAFGRBJJAYmGhKgLMgCxkjDClQBMRRARV2kAqGGDjVNkERZlREW
+JQUJGPKYC3CGaVXRRDxhWg7DioBQoKiYQgKIQHgF6gyDDInKAFAJ8xqjSxpkxuqY
+7TpYOA3bNN+MsRo7RCfi/UP/n3MnJ3BUFg1EkMJDomKdeYgqACxBLIkiEgFyhTZN
+WLiWuqlUwqUCHCvUmTp1Z+o2MXmZTGimk29XM0s8EXNieqyGVasdJ24HXZfTEHdl
+9VSLTgKimmkRNj7mqKMJ24xZXBAwpe6YLhFICCCkQkkMcHRf3EzQqOkqZFWBPFvu
+O7SOIQlPDZWHqqjKhCAgS4BHWEaCwktsWDxlQ9EVFSo6poaoqJoEZSLorFMCVUiw
+wLkt7bVijC2oLCiuYlDbrLKwk0xQLnXrRmSKJ8PvmTY10/1YHr9v9t/vNv5y+q/s
+jrGeklXHU9/7pvnm9S5INRX65IVnLs+9tsKbnXPnc/r8yLOyxbk/Rzev+XBo7Ur+
+rUcJrzkVioxe8t4dGbNqKrd9WJvesO7NN3PcD6Y8sgs70/X7C+RPZWftgd5Niw82
+qr/D7y/OOVa79Z2/dP6DjV3m69Vtg5UPfjxOl0QOLEsdaWzLkq6fKS6uCfm+nOBy
+ljfUhmbNFPq/RgJFYW8473Fr7sWjRamsJw/75qdOD7/aLWXfEwdmlnWv1FtOVPyi
+vfcjT/tnDO3q6KwoCDcvbe/5uPf35+eHy4uae9D4kpar2wdfXN5yrv35+UWW3jp0
+qOt7yCyF3fzVIxeurEc7+ht//AG1ODeW
+=PK+K
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/47d
+
+==================================================================
