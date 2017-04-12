@@ -1,0 +1,4 @@
+include .deosrc
+
+all:
+	@-echo "$@";
